@@ -1,0 +1,10 @@
+pysqlite3-binary
+langchain_community
+langchain_text_splitters
+langchain_openai
+langchain_chroma
+langchain
+tempfile
+os
+tiktoken
+lark
